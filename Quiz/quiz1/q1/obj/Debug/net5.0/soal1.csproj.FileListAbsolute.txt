@@ -1,0 +1,16 @@
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.csprojAssemblyReference.cache
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.AssemblyInfoInputs.cache
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.AssemblyInfo.cs
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.csproj.CoreCompileInputs.cache
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.exe
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.deps.json
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.runtimeconfig.json
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.runtimeconfig.dev.json
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.dll
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\ref\soal1.dll
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\bin\Debug\net5.0\soal1.pdb
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.dll
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\ref\soal1.dll
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.pdb
+C:\Users\erfan-hani\Desktop\quiz\quiz1\soal1\obj\Debug\net5.0\soal1.genruntimeconfig.cache
