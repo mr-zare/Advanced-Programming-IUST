@@ -1,0 +1,16 @@
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.csprojAssemblyReference.cache
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.AssemblyInfoInputs.cache
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.AssemblyInfo.cs
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.csproj.CoreCompileInputs.cache
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.exe
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.deps.json
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.runtimeconfig.json
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.runtimeconfig.dev.json
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.dll
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\ref\soal7.dll
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\bin\Debug\net5.0\soal7.pdb
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.dll
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\ref\soal7.dll
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.pdb
+C:\Users\erfan-hani\Desktop\tamrin1\soal7\obj\Debug\net5.0\soal7.genruntimeconfig.cache
